@@ -20,5 +20,5 @@ The file manual_validation_sample.csv contains the pre-labelled manual labels us
 
 Due to file size limitations on GitHub, all project files are hosted on the external storage service Proton Drive.
 
-- Full archive: [Proton Drive URL]
+- Full archive: [[Proton Drive URL]](https://drive.proton.me/urls/36Q19QRFS0#kOBwccjwjJq4)
 - arXiv preprint: https://www.kaggle.com/datasets/Cornell-University/arxiv
